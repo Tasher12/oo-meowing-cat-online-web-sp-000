@@ -5,7 +5,5 @@ class Cat
   attr_writer :name
     puts "meow!"
   end
-  end
-  end
 end
 
