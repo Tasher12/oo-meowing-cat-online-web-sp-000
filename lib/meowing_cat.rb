@@ -5,5 +5,6 @@ class Cat
   def meow(:name)
     puts "meow!"
   end
+  end
 end
 
